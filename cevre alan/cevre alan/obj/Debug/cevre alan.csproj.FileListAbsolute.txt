@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\bin\Debug\cevre alan.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\bin\Debug\cevre alan.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\bin\Debug\cevre alan.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\obj\Debug\cevre alan.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\obj\Debug\cevre alan.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\obj\Debug\cevre_alan.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\obj\Debug\cevre_alan.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\obj\Debug\cevre alan.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\obj\Debug\cevre alan.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\obj\Debug\cevre alan.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\cevre alan\cevre alan\obj\Debug\cevre alan.pdb
